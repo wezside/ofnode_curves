@@ -1,0 +1,10 @@
+assets/
+bin/data/screenshots
+bin/data/frames
+bin/curveline*
+bin/lib*
+bin/libs/
+glenfiddich-viz
+obj/
+reference/
+bin/data/frames/
